@@ -10,7 +10,7 @@ Sample code for explaining Interoperability with Jetpack compose.
 
 The code is compromised of three main parts.
 
--  First Part (MainActivity) - Explains the concept of how to align items inside rows and column properly inside 
+-  First Part (MainActivity) - Explains the concept of how to align items inside rows and column properly.
 - Second Part - How to add a custom view written in java or Kotlin into compose. 
 
 
