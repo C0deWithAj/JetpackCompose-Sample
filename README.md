@@ -35,5 +35,5 @@ The code is compromised of three main parts.
 
 ## 🛠 Tools & Language
 - Kotlin 
-- Jetpack
+- Jetpack Compose
 
